@@ -6,18 +6,24 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-2b2b2b?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/3591973/phougatv) 
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/phougatv)
 
-## 👨🏻‍💻 About me
-- 🛠️ I'm a software developer who aims to deliver highly tested and high performing .NET apps that deliver business value.
+## 👨🏻‍💻 About Me
+- 🛠️ I'm a software developer who aims to develop highly tested and high performing .NET apps that deliver business value.
 - 🔭 I’m currently working for Citi Group
 - 🌱 I’m on the path of learning and documenting [everything that's coming my way](https://github.com/phougatv/interview-preparation/wiki)
 
-## 🧰 Tech stack
-![C#](https://img.shields.io/badge/-C%23-%2324292f?style=flat&logo=csharp&logoColor=brightgreen)
-![.NET 6](https://img.shields.io/badge/-.NET%206-blueviolet?logo=dotnet)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-blueviolet)
-![WebAPI](https://img.shields.io/badge/-WebAPIs-blue)
-![FluentAssertions](https://img.shields.io/badge/-FluentAssertions-%23f542cb)
-![xUnit](https://img.shields.io/badge/-xUnit-%2318171c)
+## 🧰 Skill Set
+![C#](https://img.shields.io/badge/-C%23-1b1b1b?style=flat&logo=csharp&logoColor=brightgreen)
+![.NET 6](https://img.shields.io/badge/-.NET%206-1b1b1b?style=flat&logo=dotnet&logoColor=blueviolet)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-1b1b1b?style=flat&logo=dotnet&logoColor=blueviolet)
+![WebAPI](https://img.shields.io/badge/-WebAPI-1b1b1b?style=flat&logo=dotnet&logoColor=blueviolet)
+![FluentAssertions](https://img.shields.io/badge/-FluentAssertions-1b1b1b?style=flat&logo=dotnet&logoColor=blueviolet)
+![xUnit](https://img.shields.io/badge/-xUnit-1b1b1b?style=flat&logo=dotnet&logoColor=blueviolet)
+
+![RESTful Architecture](https://img.shields.io/badge/-RESTful%20Architecture-1b1b1b?style=flat&logo=json&logoColor=white)
+![S.O.L.I.D](https://img.shields.io/badge/-SOLID--Principles-1b1b1b?style=flat)
+![Data-Structures](https://img.shields.io/badge/-Data--Structures-1b1b1b?style=flat)
+![Algorithms](https://img.shields.io/badge/-Algorithms-1b1b1b?style=flat)
+![Design-Patterns](https://img.shields.io/badge/-Design--Patterns-1b1b1b?style=flat)
 
 ## GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true)](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true)
