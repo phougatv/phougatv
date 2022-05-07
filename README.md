@@ -1,5 +1,5 @@
 ## Hi 👋
-☀️ I'm Vedant (@phougatv) from 🇮🇳.
+☀️ I'm Vedant Phougat (@phougatv) from 🇮🇳.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phougatv/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-%2324292f?style=flat&logo=github)](https://github.com/phougatv) 
