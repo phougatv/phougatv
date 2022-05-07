@@ -17,7 +17,7 @@ I'm Vedant (@phougatv), a software developer who aims to develop high performing
 
 ## 📫 Reach me
 [![](https://img.shields.io/badge/-LinkedIn-%230e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phougatv/)
-[![]()](https://github.com/phougatv)
+[![](https://img.shields.io/badge/-GitHub-%2324292f?style=flat&logo=github)](https://github.com/phougatv)
 [![](https://img.shields.io/badge/-StackOverflow-2b2b2b?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/3591973/phougatv)
 [![](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/phougatv)
 
