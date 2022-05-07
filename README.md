@@ -19,6 +19,7 @@
 ![FluentAssertions](https://img.shields.io/badge/-FluentAssertions-1b1b1b?style=flat&logo=dotnet&logoColor=blueviolet)
 ![xUnit](https://img.shields.io/badge/-xUnit-1b1b1b?style=flat&logo=dotnet&logoColor=blueviolet)
 
+![Azure](https://img.shields.io/badge/-Azure-1b1b1b?style=flat&logo=microsoftazure&logoColor=blue)
 ![RESTful Architecture](https://img.shields.io/badge/-RESTful%20Architecture-1b1b1b?style=flat&logo=json&logoColor=white)
 ![S.O.L.I.D](https://img.shields.io/badge/-SOLID--Principles-1b1b1b?style=flat)
 ![Data-Structures](https://img.shields.io/badge/-Data--Structures-1b1b1b?style=flat)
@@ -26,11 +27,12 @@
 ![Design-Patterns](https://img.shields.io/badge/-Design--Patterns-1b1b1b?style=flat)
 
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true)](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true&theme=github_dark)
 
-[![Top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv)](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv)
+[![Top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv&theme=github_dark)
 
-![](https://komarev.com/ghpvc/?username=phougatv&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=phougatv&color=brightgreen)
+
 <!--
 **phougatv/phougatv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
