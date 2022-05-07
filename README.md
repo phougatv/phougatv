@@ -9,10 +9,9 @@ I'm Vedant (@phougatv), a software developer who aims to develop high performing
 
 ## 🛠️ Tech stack
 ![C#](https://img.shields.io/badge/-C%23-brightgreen?logo=csharp)
+![.NET 6](https://img.shields.io/badge/-.NET%206-blueviolet?logo=dotnet)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-blueviolet)
 ![WebAPI](https://img.shields.io/badge/-WebAPIs-blue)
-![.NET 5](https://img.shields.io/badge/-.NET%205-blueviolet?logo=dotnet)
-![.NET 6](https://img.shields.io/badge/-.NET%206-blueviolet?logo=dotnet)
 ![FluentAssertions](https://img.shields.io/badge/-FluentAssertions-%23f542cb)
 ![xUnit](https://img.shields.io/badge/-xUnit-%2318171c)
 
