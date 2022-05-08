@@ -5,6 +5,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-%2324292f?style=flat&logo=github)](https://github.com/phougatv) 
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-2b2b2b?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/3591973/phougatv) 
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/phougatv)
+![Profile views](https://komarev.com/ghpvc/?username=phougatv&color=brightgreen)
 
 ## 👨🏻‍💻 About Me
 - 🛠️ I'm a software developer who aims to develop highly tested and high performing .NET apps that deliver business value.
@@ -26,12 +27,13 @@
 ![Algorithms](https://img.shields.io/badge/-Algorithms-1b1b1b?style=flat)
 ![Design-Patterns](https://img.shields.io/badge/-Design--Patterns-1b1b1b?style=flat)
 
-## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true&theme=github_dark)
+## Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=phougatv&theme=dark_dimmed&column=7&margin-w=15&margin-h=15)](https://github.com/phougatv/github-profile-trophy)
 
+## GitHub Stats
 [![Top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv&theme=github_dark)
 
-![Profile views](https://komarev.com/ghpvc/?username=phougatv&color=brightgreen)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true&theme=github_dark&column=3&margin-w=15&margin-h=15)](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true&theme=github_dark)
 
 <!--
 **phougatv/phougatv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
