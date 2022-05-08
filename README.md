@@ -7,6 +7,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/phougatv)
 ![Profile views](https://komarev.com/ghpvc/?username=phougatv&color=brightgreen)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=phougatv&theme=dark_dimmed&column=7&margin-w=15&margin-h=15)](https://github.com/phougatv/github-profile-trophy)
+
 ## 👨🏻‍💻 About Me
 - 🛠️ I'm a software developer who aims to develop highly tested and high performing .NET apps that deliver business value.
 - 🔭 I’m currently working for Citi Group
@@ -26,9 +28,6 @@
 ![Data-Structures](https://img.shields.io/badge/-Data--Structures-1b1b1b?style=flat)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-1b1b1b?style=flat)
 ![Design-Patterns](https://img.shields.io/badge/-Design--Patterns-1b1b1b?style=flat)
-
-## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=phougatv&theme=dark_dimmed&column=7&margin-w=15&margin-h=15)](https://github.com/phougatv/github-profile-trophy)
 
 ## GitHub Stats
 [![Top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv&theme=github_dark)
