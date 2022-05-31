@@ -10,8 +10,6 @@
 
 <a href="https://stackoverflow.com/users/3591973/phougatv"><img src="https://stackoverflow.com/users/flair/3591973.png?theme=dark" width="208" height="58" alt="profile for phougatv at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for phougatv at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=phougatv&theme=dark_dimmed&column=7&margin-w=15&margin-h=15)](https://github.com/phougatv/github-profile-trophy)
-
 ## 👨🏻‍💻 About Me
 - 🛠️ I'm a software developer who aims to develop highly tested and high performing .NET apps that deliver business value.
 - 🔭 I’m currently working for Citi Group
@@ -36,6 +34,8 @@
 [![Top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv&theme=github_dark)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true&theme=github_dark&column=3&margin-w=15&margin-h=15)](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true&theme=github_dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=phougatv&theme=dark_dimmed&column=7&margin-w=15&margin-h=15)](https://github.com/phougatv/github-profile-trophy)
 
 <!--
 **phougatv/phougatv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
