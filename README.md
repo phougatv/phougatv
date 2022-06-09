@@ -1,7 +1,8 @@
 ## Hi 👋
 ☀️ I'm Vedant Phougat (@phougatv) from 🇮🇳.
 
-[![Resume](https://img.shields.io/badge/-Vedant%20Phougat%20CV-2b9348?style=flat&logo=textpattern&logoColor=white)](https://1drv.ms/b/s!AoJ75YD10dARgp075jLQpVJHj98Ztg?e=9VrqP7)
+<!-- [![Resume](https://img.shields.io/badge/-Vedant%20Phougat%20CV-2b9348?style=flat&logo=textpattern&logoColor=white)](https://1drv.ms/b/s!AoJ75YD10dARgp075jLQpVJHj98Ztg?e=9VrqP7) -->
+[![Resume](https://img.shields.io/badge/-Vedant%20Phougat%20CV-2b9348?style=flat&logo=textpattern&logoColor=white)](https://phougatv.notion.site/Resume-79c73b2428134c6ca678d5a4f70bcdb9)
 [![LinkedIn](https://img.shields.io/badge/-phougatv-%230e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phougatv/)
 [![GitHub](https://img.shields.io/badge/-phougatv-%2324292f?style=flat&logo=github)](https://github.com/phougatv)
 [![Twitter](https://img.shields.io/badge/-phougatv-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/phougatv)
