@@ -32,9 +32,9 @@
 ![Design-Patterns](https://img.shields.io/badge/-Design--Patterns-1b1b1b?style=flat)
 
 ## GitHub Stats
-## [![Top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv&theme=github_dark)
+<!-- [![Top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=phougatv&theme=github_dark) -->
 
-## [![GitHub stats](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true&theme=github_dark&column=3&margin-w=15&margin-h=15)](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true&theme=github_dark)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true&theme=github_dark&column=3&margin-w=15&margin-h=15)](https://github-readme-stats.vercel.app/api?username=phougatv&show_icons=true&theme=github_dark) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=phougatv&theme=dark_dimmed&column=7&margin-w=15&margin-h=15)](https://github.com/phougatv/github-profile-trophy)
 
