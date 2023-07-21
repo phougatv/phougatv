@@ -2,16 +2,13 @@
 ☀️ I'm Vedant Phougat (@phougatv) from 🇮🇳.
 
 <!-- [![Resume](https://img.shields.io/badge/-Vedant%20Phougat%20CV-2b9348?style=flat&logo=textpattern&logoColor=white)](https://1drv.ms/b/s!AoJ75YD10dARgp075jLQpVJHj98Ztg?e=9VrqP7) -->
-[![Business Card](https://flowcv.me/phougatv)
 ![Profile views](https://komarev.com/ghpvc/?username=phougatv&color=brightgreen)
 <!-- [![StackOverflow](https://img.shields.io/badge/-phougatv-2b2b2b?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/3591973/phougatv) -->
 
 <a href="https://stackoverflow.com/users/3591973/phougatv"><img src="https://stackoverflow.com/users/flair/3591973.png?theme=dark" width="208" height="58" alt="profile for phougatv at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for phougatv at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## 👨🏻‍💻 About Me
-- 🛠️ I'm a software developer who aims to develop highly tested and high performing .NET apps that deliver business value.
-- 🔭 I’m currently working for Citi Group
-- 🌱 I’m on the path of learning and documenting [everything that's coming my way](https://github.com/phougatv/interview-preparation/wiki)
+- 💳 [Business Card](https://flowcv.me/phougatv)
 
 ## 🧰 Skill Set
 ![C#](https://img.shields.io/badge/-C%23-1b1b1b?style=flat&logo=csharp&logoColor=brightgreen)
