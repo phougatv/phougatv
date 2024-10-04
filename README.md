@@ -6,7 +6,7 @@ Here is my [🪪 Resume](https://github.com/phougatv/phougatv/wiki/cv), [📰 Bl
 - 🔭 **I’m currently working on** [wc.NET](https://github.com/phougatv/vp-coding-challenge-wctool)
 - 🌱 **I’m currently learning** [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), Low-Level System Design, and use of [Result Pattern](https://jscarle.github.io/LightResults/)
 - 👯 **I’m open to collaborate on** projects where memory and performance optimization is needed.
-- 📫 **How to reach me:** phougatv at outlook dot com
+- 📫 **How to reach me:** Message me on [LinkedIn](https://www.linkedin.com/in/phougatv/)
 
 <!-- [![Resume](https://img.shields.io/badge/-Vedant%20Phougat%20CV-2b9348?style=flat&logo=textpattern&logoColor=white)](https://1drv.ms/b/s!AoJ75YD10dARgp075jLQpVJHj98Ztg?e=9VrqP7) -->
 ![Profile views](https://komarev.com/ghpvc/?username=phougatv&color=brightgreen)
