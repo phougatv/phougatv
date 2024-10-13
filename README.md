@@ -1,7 +1,7 @@
 # About me
 ## Hello! 👋
 I'm Vedant Phougat (@phougatv) from 🇮🇳.</br>
-Here is my [🪪 Resume][1], [dev.to Blog][2], [📰 Hashnode Blog][3] and [Wiki][4]
+Here is my [🪪 Resume][1], [📰 dev.to Blog][2], [📰 Hashnode Blog][3] and [Wiki][4]
 
 - 🔭 **I’m currently working on** [wc.NET][5]
 - 🌱 **I’m currently learning** [Clean Code][6], Low-Level System Design, and use of [Result Pattern][7]
