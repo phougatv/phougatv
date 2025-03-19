@@ -1,12 +1,23 @@
 # About me
 ## Hello! 👋
 I'm Vedant Phougat (@phougatv) from 🇮🇳.</br>
-Here is my [🪪 Resume][1], [📰 dev.to Blog][2], [📰 Hashnode Blog][3] and [Wiki][4]
+This is a collection of my work, including blog posts, personal projects, and more.</br>
+Here are a few quick links:
+- [My Wiki](https://github.com/phougatv/phougatv/wiki)
+- [My resume](https://github.com/phougatv/phougatv/wiki/Resume-of-Vedant-Phougat)
+- My blogs
+  - [Dev Community](https://dev.to/phougatv)
+  - [GitHub Blog](https://github.com/phougatv/phougatv/wiki/Evolving-Engineer's-Blog)
+  - [Hashnode Blog](https://evolving-engineer.hashnode.dev/)
+- 🔭 **I’m currently working on** [wc.NET][https://github.com/phougatv/vp-coding-challenge-wctool]
+- 📫 **How to reach me:** Message me on [LinkedIn][https://www.linkedin.com/in/phougatv/]
+- 
 
+<!--
 - 🔭 **I’m currently working on** [wc.NET][5]
 - 🌱 **I’m currently learning** [Clean Code][6], Low-Level System Design, and use of [Result Pattern][7]
 - 👯 **I’m open to collaborate on** projects where memory and performance optimization is needed.
-- 📫 **How to reach me:** Message me on [LinkedIn][8]
+- 📫 **How to reach me:** Message me on [LinkedIn][8] -->
 
 <!-- [![Resume](https://img.shields.io/badge/-Vedant%20Phougat%20CV-2b9348?style=flat&logo=textpattern&logoColor=white)](https://1drv.ms/b/s!AoJ75YD10dARgp075jLQpVJHj98Ztg?e=9VrqP7) -->
 ![Profile views](https://komarev.com/ghpvc/?username=phougatv&color=brightgreen)
