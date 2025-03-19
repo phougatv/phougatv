@@ -9,8 +9,8 @@ Here are a few quick links:
   - [Dev Community](https://dev.to/phougatv)
   - [GitHub Blog](https://github.com/phougatv/phougatv/wiki/Evolving-Engineer's-Blog)
   - [Hashnode Blog](https://evolving-engineer.hashnode.dev/)
-- 🔭 **I’m currently working on** [wc.NET][https://github.com/phougatv/vp-coding-challenge-wctool]
-- 📫 **How to reach me:** Message me on [LinkedIn][https://www.linkedin.com/in/phougatv/]
+- 🔭 **I’m currently working on** [wc.NET](https://github.com/phougatv/vp-coding-challenge-wctool)
+- 📫 **How to reach me:** Message me on [LinkedIn](https://www.linkedin.com/in/phougatv/)
 - 
 
 <!--
