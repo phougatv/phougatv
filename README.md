@@ -3,15 +3,15 @@
 I'm Vedant Phougat (@phougatv) from 🇮🇳.</br>
 This is a collection of my work, including blog posts, personal projects, and more.</br>
 Here are a few quick links:
-- [My Wiki](https://github.com/phougatv/phougatv/wiki)
 - [My resume](https://github.com/phougatv/phougatv/wiki/Resume-of-Vedant-Phougat)
 - My blogs
   - [Dev Community](https://dev.to/phougatv)
   - [GitHub Blog](https://github.com/phougatv/phougatv/wiki/Evolving-Engineer's-Blog)
   - [Hashnode Blog](https://evolving-engineer.hashnode.dev/)
+- [My Bookshelf](https://github.com/phougatv/phougatv/wiki/Bookshelf)
+- [My Papershelf](https://github.com/phougatv/phougatv/wiki/Papershelf)
 - 🔭 **I’m currently working on** [wc.NET](https://github.com/phougatv/vp-coding-challenge-wctool)
 - 📫 **How to reach me:** Message me on [LinkedIn](https://www.linkedin.com/in/phougatv/)
-- 
 
 <!--
 - 🔭 **I’m currently working on** [wc.NET][5]
