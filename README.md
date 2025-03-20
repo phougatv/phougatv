@@ -6,7 +6,7 @@ Here are a few quick links:
 - [My resume](https://github.com/phougatv/phougatv/wiki/Resume-of-Vedant-Phougat)
 - My blogs
   - [Dev Community](https://dev.to/phougatv)
-  - [GitHub Blog](https://github.com/phougatv/phougatv/wiki/Evolving-Engineer's-Blog)
+  - [GitHub Blog](https://github.com/phougatv/phougatv/wiki/)
   - [Hashnode Blog](https://evolving-engineer.hashnode.dev/)
 - [My Bookshelf](https://github.com/phougatv/phougatv/wiki/Bookshelf)
 - [My Papershelf](https://github.com/phougatv/phougatv/wiki/Papershelf)
